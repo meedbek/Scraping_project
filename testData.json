@@ -1,0 +1,574 @@
+{
+    "data": [
+        {
+            "label": "QIANRENON PCI-E 1X to 16X Riser Card Adapter Extender Graphics Adapter Convertor Board for 1U 2U Motherboard Replacement,Graphics Card, Network Card etc",
+            "price": "14.99",
+            "description": "Type: Riser Card\nStability strong\nThe middle with a soft cable connection\n1X to 16X flexible cable connection adapter, design for 1U, 2U server small chassis expansion\nProduct length: 10cm / 3.93in\nPackage Included\n1 pcs PCI-E 1X to 16X Riser Card Adapter.",
+            "rating": null
+        },
+        {
+            "label": "MAXSUN GEFORCE GT 1030 2GB GDDR5 Video Graphics Card GPU Mini ITX Design, HDMI, DVI-D, Single Fan Cooling System",
+            "price": "123.99",
+            "description": null,
+            "rating": "4.2",
+            "Reviews": [
+                {
+                    "title": "It Works...",
+                    "rating": "3",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on February 7, 2022",
+                    "text": "OK, it arrived on time, but that is sort of an issue. When I purchased this product, Amazon guaranteed delivery on Sunday Feb. 6, 2022. On the 6th, I woke up to an email that it would be delayed until Monday the 7th. No problem, we had a blizzard and people have been digging out. BUT, it was delivered on Sunday and just left outside, in the freezing cold and snow, without me knowing or expecting it was going to happen. Luckily, a friend stopped in for five minutes, and by coincidence that's when the package was left in the cold and snow, so it wasn't there when he came up the porch, but it was there when he went down and my package got to me safely. The seller bears no responsibility for this, as it was fulfilled by Amazon, but for some reason, Amazon doesn't let us write reviews for the customer service, so here it is. You can do better, Amazon.\n\nAs for the product itself, it's not really as bad as my \"stars\" would suggest. It arrived in what appears to be brand new packaging. I can't find any evidence that the anti-static bag was ever opened before. I installed it in my aging Dell Inspiron 3700 (with an i5-8400, and 12GB of RAM) hooked it all up, turned it on, and after about 5 minutes of some installation process (at which time there WAS video) my screen automatically reverted to the display settings it had prior to the install, and it works just fine. I installed Nvidia GeForce and, after one more driver update it was over. The entire process was from start to finish was less than 20 minutes.\n\nThis was the first time I have ever installed a GPU, and I can only assume that that is EXACTLY how it is supposed to work. As for the value for money, NO GPU has a good value to money ratio. Crypto-miners and the pandemic have seen to that.\n\nAs for gaming, this just is NOT a card built to plays today's most advanced games. I got this card because PGA 2K21 can only track one profile at a time, so two people with two profiles need two copies of the game to track their stats in co-op. Now, my aging Dell could manage about 25 FPS in \"potato mode,\" a number that made it unplayable. With this card, on low settings (one step up from potato mode), this card and the i5 deliver 90FPS steadily at 1080p quality.\n\nThe problem there, is that 2K21 is really \"The Golf Club 3\" with 2K's marketing slapped on the box. As such, the entire install from Steam was just 6.6GB. And as every modern gamer knows, the 5-15GB game file size was lost to any game above the 'indie\" classification when the games went 4K. Which means that the game would have to still be in potato mode if 4K textures even existed in the files for processing.\n\nThe only other \"modern\" game I have on the Dell is Kerbal Space Program. And that, with low settings turned on, and the FPS locked to 80, this card and the i5 can get maintain a steady 60 in the assembly buildings and launchpad, and dropped into the 40 FPS range during the launches I tested. But that is normal. KSP can make even monster PC's cry for mercy if the user launches a big enough ship. The limitation there is far more CPU dependent than GPU dependent as the game tries to simulate physics, heat, and gravity calculations on hundreds of individual parts simultaneously.\n\nAs for video streaming, honestly, I don't see very much improvement over the streaming quality of just the i5, but there is no LESS quality to the streaming, and that's what matters. My monitor is a 32\" 1440p, with a 144 Hz refresh rate.\n\nI do, however, have a couple of issues with this card. On the product description page, there is clearly a picture of the various output I expected to find on this card. And if I remember right that picture had a display port, an HDMI port, a 24 pin DVI port, and a VGA port (I might be wrong about the VGA port). The card that arrived at my house, does NOT have either a VGA port or a display port. So, if your monitor has either of those, BUYER BEWARE!!! I was only ever going to use the HDMI port, so I'm not too fussed.\n\nMy bigger issue is the plastic shroud on the GPU itself. The card doesn't cover the same amount of area that the plastic shroud does, so I have several square inches of exposed plastic shroud inside my PC, acting as a \"bowl\" to catch any dust flying around. And while the Dell has a paper filter the covers the main air intake, and a sort of cone directing the CPU exhaust directly out into the room and that has kept the amount of dust inside my case to a minimum. But now there is the GPU fan sourcing air from an unfiltered area, and just exhausting the air inside the case. So, ALL bets are off as to how this plays out in the remaining life left in my aging Dell.\n\nThat is just BAD design all the way around. It uses more material than is strictly needed meaning the manufacturer is paying more than is strictly necessary for each card manufactured, and it CAN'T be good for the PC to have an actual dust catcher inside a machine that you work hard to keep dust free. And I can PROMISE the manufacturer, that if my aging Dell suddenly dies six weeks from now, I know EXACTLY who I will blame. I won't get a refund, but THEY won't get a return customer.\n\nAnd for that reason, ultimately, I will give this GPU a 3-star rating with a serious \"BUYER BEWARE\" due to the misleading product photos, as well as the poorly designed fan shroud."
+                },
+                {
+                    "title": "Overall great value, but missing a 2nd HDMI out",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 8, 2022",
+                    "text": "This graphics card works well in our limited-power mini-tower.\n\nIt'd be perfect for our needs if it had a 2nd HDMI port, but a simple adapter cable did the trick since one of the two monitors we hooked up had that necessary DVI port as well as its HDMI port.\n\nI can recommend this card as a good performance/value graphics card for your limited-power computer."
+                },
+                {
+                    "title": "Do you want an Nvidia account /",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on July 27, 2022",
+                    "text": "Received it in a timely manner from Amazon, that part went well. Had to do a little digging in the Nvidia web site to find the correct updated drivers. The drivers are there you just need to do more than a simple search for current drivers for newer cards. This is a fairly old video card ( even though new) and the original drivers that were installed have been well and truly superseded. Updated the drivers, BUT before I could take advantage of all of the cards capabilities I Had to create a Nvidia account. That really SUCKS! The card works just fine as is, and since I'm not going to use it for any heavy duty gaming I guess I'll just have to live with it as is... As I write this I'm reminded of the fact that if I want to register the card I'm going to have to create an account any way, looks like the jokes on me! Darned if I do and darned if I don't..."
+                },
+                {
+                    "title": "Powerful",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 8, 2022",
+                    "text": "Works as advertised. It was easy to install and my grandson has more gaming power. It was a great price for the extra speed it gave us."
+                },
+                {
+                    "title": "Really good for its price, make sure you have a mid box as the card is slightly bigger",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on June 10, 2022",
+                    "text": "Very good for budget gaming setups, installation was easy and the quality was decent. Perfect for low budget- mid budget builds, slightly bottle neck for old processors"
+                },
+                {
+                    "title": "Very good",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on July 29, 2022",
+                    "text": "I use it for little games it's great\nTemperature max.40 \u00b0C\nI loved this product"
+                },
+                {
+                    "title": "Very happy",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on April 10, 2022",
+                    "text": "It's a whole new world. I was skeptical getting this card in 2022 but im more than suprised. I'm running games at 60-70 fps at ultra or high graphics. I can run warthunder at 150 fps with lower graphics enabled helping a lot with that game. The card was a simple install and is running on my 180 watt power supplie when stated it needs 200. I have very low power draw on my system as a whole so it's working. Shipped in two days can't complain."
+                },
+                {
+                    "title": "excellent product",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on August 2, 2022",
+                    "text": "works great"
+                },
+                {
+                    "title": "Not for gamers.",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on January 31, 2022",
+                    "text": "It's and old video card at highly inflated market prices. It works, you have to window download the driver.\nI was using internal graphics, so this was an upgrade, barely makes it for todays games, everything is on low settings."
+                },
+                {
+                    "title": "Works With Dell 8900",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on July 22, 2021",
+                    "text": "Review for: MAXSUN GEFORCE GT 1030 2GB GDDR5 GPU. Product arrived on time with typical packaging in bubble wrap bag with no damage or other issues. Got this during the Black Friday sales; good price. Bought this GPU for a DELL XPS 8900 i7-6700K Skylake CPU (yes, for 8900 NOT 8920 or 8930 or any other 89xx) and I have to say It was a bit risky thinking the GPU wouldn't take, but it did. It fits perfect and doesn't overlap on the 2240 M.2 SATA SSD (See photos). After installation NVIDIA program recognized the GPU and updated the software automatically. I'm not using this for games but I am using DreamWeaver, Photoshop, Illustrator etc... as well as ZOOM for online college courses and a couple of other graphics demanding programs. I didn't have to mess with or update the BIOS, it was simply plug and play. Temperature wise it stays pretty cool. The only modification was having to exchange the original GPU bracket with this 1030 bracket. It worked out fine. (See Photos)"
+                }
+            ]
+        },
+        {
+            "label": "GIGABYTE GeForce RTX 3070 Ti Eagle OC 8G Graphics Card, WINDFORCE 3X Cooling System, 8GB 256-bit GDDR6X, GV-N307TEAGLE OC-8GD Video Card",
+            "price": "824.00",
+            "description": "NVIDIA Ampere Streaming Multiprocessors 2nd Generation RT Cores 3rd Generation Tensor Cores Powered by GeForce RTX 3070 Ti Integrated with 8GB GDDR6X 256-bit memory interface WINDFORCE 3X Cooling System with alternate spinning fans RGB Fusion 2.0 Protection metal back plate 2x HDMI 2.1, 2x DisplayPort 1.4 Core Clock: 1800 MHz. Get the ultimate gaming performance with AORUS RTX 3070 Ti Graphics Cards. Powered by NVIDIA's 2nd gen RTX architecture and refined with GIGABYTE's WINDFORCE cooling technology, the GeForce RTX 3070 Ti EAGLE OC 8G brings stunning visuals, amazingly fast frame rates, and AI acceleration to games and creative applications with its enhanced RT Cores and Tensor Cores, and superfast G6X memory.",
+            "rating": "4.3",
+            "Reviews": [
+                {
+                    "title": "worth the money",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on July 30, 2022",
+                    "text": "been using this video card for 6 months. find it well worth the money it middle range video card and can run most rps games. my only complaint it is gets a bit noisy when running at full speed. but all in all very happy with this card."
+                },
+                {
+                    "title": null,
+                    "rating": "5",
+                    "location-date": "Reviewed in Mexico \ud83c\uddf2\ud83c\uddfd on January 12, 2022",
+                    "text": "Que cumple de acuerdo a la descripci\u00f3n y tiene muy buena calidad en las protecciones de los juegos"
+                }
+            ]
+        },
+        {
+            "label": "ZOTAC Gaming GeForce RTX\u2122 3060 Ti Twin Edge OC LHR 8GB GDDR6 256-bit 14 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, Active Fan Control, Freeze Fan Stop ZT-A30610H-10MLHR",
+            "price": "450.86",
+            "description": "Get Amplified with the all-new ZOTAC GAMING GeForce RTX 30 Series based on the NVIDIA Ampere architecture. Built with enhanced RT Cores and Tensor Cores, new streaming multiprocessors, and superfast GDDR6 memory, the ZOTAC GAMING GeForce RTX 3060 Ti Twin Edge OC LHR gives rise to amplified gaming with high graphics fidelity. Features: - 2nd Gen Ray Tracing Cores - 3rd Gen Tensor Cores - White LED Logo Lighting - IceStorm 2.0 Advanced Cooling - Active Fan Control - FREEZE Fan Stop - Metal Backplate - FireStorm Utility - VR Ready - LHR 25 MH/s ETH hash rate (est.).",
+            "rating": "4.7",
+            "Reviews": [
+                {
+                    "title": "Pretty good. Has room for improvement on cooling in particular, but not a bad option.",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on June 13, 2022",
+                    "text": "I got this because I feel like the 3060 Ti strikes a pretty good balance between a lot of things -- including the oft-forgotten questions of power usage and heat production. Performance-wise people point to the 3070 and say go ahead and spend the extra, but I do want to point out that the 3060 Ti generally outperforms the previous generation's 2080 Super in most things (and barely does any worse at all in the things it doesn't beat it at.) Zotac's offering is a good price and seems to be a reliable choice which was my biggest consideration right now (I want this thing to last a long time.)\n\nThe only complaints I do have are about the cooling. The heatsink's design is actually really good and I don't have any complaints about the heatsink itself. It's worth noting that many videocards have the fins oriented vertically instead of horizontally, so so air can flow through them out the back of the case (thus meaning those cards can only recycle air and rely on the case to have good airflow.) This one is properly oriented horizontally, so *some* air can go out. I emphasize some because of two things. First, it's open on both sides, so of course some air still goes back to the case out the inside part and gets recycled -- but of course GPU fans rarely have high static pressure anyway, so blocking that side doesn't actually improve cooling (mind you, my case has pretty decent airflow, so it may do better to cover the inside end in worse cases than mine.) I do also think the fans should be tilted just ever so slightly to actually make the air go a direction other than straight down into the heatsink, but I don't know if any videocard manufacturer has ever thought of this yet.\n\nI also noticed the thermal paste apparently wasn't ideal or at least wasn't ideally placed (maybe too much I think.) I took it apart under the assumption they used the usual really cheap stuff many GPUs have, but it looked like it maybe wasn't actually terrible. I can't be sure what it is from just its appearance alone, but it did seem to be a bit lower viscosity than ideal, so maybe not the highest grade. When I changed the thermal paste its temperatures dropped by approximately 3C from the top and close to that at idle (and thermal paste is less about maximum temperature and more just about minimizing heat dissipation latency, so when you see a notable drop in temperature that means a lot more than it may seem.) It may just have been too much on there as there was definitely quite a lot and it was hard to clean, so that is a distinct possibility and could potentially even save them money if it's just a matter of reducing it ever so slightly.\n\nThere was one definitely bad choice on this card I'm unhappy about though -- and this is the biggest reason I knocked one star off from the max (the other stuff is pretty typical of GPUs in general probably.) For some reason they stuck little aluminum tags with their name and logo on the fans themselves with a heavy foam tape. This just seems like a really dumb choice no matter how I look at it. For one, it adds extra mass to the fans, which reduces their efficiency and lifetime. For another, apparently the process varies because on mine one of the tags was off center and looked kind of bad (plus was probably even worse for the lifetime of the fan as it would make it run fairly unevently, affecting its long-term life.) Again, my goal is for this thing to last, and if the fans die out on me not that far down the road that's definitely not lasting. Since they used a thick foam tape though, it's hard to get them completely off (I had to pry very very carefully and slowly to not risk damaging the fans in the process.) Actually, this may have had some effect on the temperature in itself since the fans now probably run that tiny bit more efficiently (but doesn't account for a full 3C.)\n\nNow, that said, I've seen reviews saying this card is loud. I don't know if they've revised this model or what, but I did not feel like the fans were loud at all. I get more noise from the other fans in my case definitely (mind you, it's not a silent case by any means, but I never feel like the noise is bad now.) Certainly a lot better than the awful stock cooler that came with my CPU (that thing started to reach hurricane levels under load I swear.) Also, the GPU seems to actually stay a very good temperature. The reviews saying the fans were loud said it would run > 70C, but, in fact, I'm seeing a maximum of around 61C or so now (slightly higher before) with normal gaming keeping it at about 57C or so roughly the majority of the time (versus 60C before I redid the thermal compound.) It only got up to around 61C or so when I saw GPU usage go way up to about 85% (normally it's 50-60 in most games but some hit the mid 70s or so. That 85% was only for a short duration.) I have a very high confidence now that this card will last me a very long time short of something unexpected and extreme happening. Overall I'd call it a good design other than those few points I mentioned earlier."
+                },
+                {
+                    "title": "Pretty Good, and no, the noise is not annoying.",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 12, 2022",
+                    "text": "It is a pretty good card. The noise is not actually annoying, you just gonna hear a whisper, but if you have headphones you will not hear it. The only \"bad\" thing here is the temperatures. The minimun and maximun i get when i am not doing gaming is 32\u00b0 and 40\u00b0. When i am playing triple A games (God of war, Spiderman, etc) i get 75\u00b0 as minimun and 88\u00b0 as maximun. But, the performance of this card is just amazing, I love it. In God of War (all in ultra, at 1080p without dlss) i get more than 70+ fps, but if i change graphics at high, i get more than 100+ fps.\n\nMy pc (just in case for the people that have 550w PSU and have fear to buy this card. Btw, 550w PSU is the MINIMUN for this card.)\n\nRyzen 5 5600g\nRTX 3060 ti (jeje)\n16 gbs ram (dual channel, 3200mhz.)\n500gbs ssd m.2\n550w PSU.\n3 Fans\nAir cooling\n\nAlso, I bought it from amazon.com USA (sold and shipped) and it arrived without any damage, everything was perfect."
+                },
+                {
+                    "title": "Seriously adoring this thing",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 26, 2022",
+                    "text": "The temps while gaming were a tiny little bit on the high side right after install, but that is due mostly to my PC not having the greatest airflow, which I am now in the process of fixing. Later on the temps stabilized, with DLSS Quality at 1080p I get 65 degrees max. Full resolution Ray Tracing might push it to 80 degrees, which is fairly normal. Me personally, I don't care about 2k and 4k right now or for the foreseeable future. Seamless 60 FPS, VSync is your best friend here. I am adoring this thing."
+                },
+                {
+                    "title": "Good find on the Prime Day Deals",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 15, 2022",
+                    "text": "After the graphic card price surge of 2020 and 2021, it's good to finally see the prices of cards start to reach regular levels. While NVIDIA seems to be grasping at every dollar on the 3000 series cards, was able to find this for the same price as the Founder's Edition during the Prime Day Deals. Very happy with the ability of the card. Fans can be heard a bit when heavy use but nothing out of the ordinary."
+                },
+                {
+                    "title": "Excelente servicio! Muy confiable",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 19, 2022",
+                    "text": "Muy buena, la ped\u00ed a Colombia y llego en buen estado, una observaci\u00f3n es q cuando jugaba en todo en ultra a 1920x1080 dependiendo del juego subia a temperaturas de 80\u00ba a 85\u00ba me di cuenta que si le quitaba la tapa lateral bajaba a 75\u00ba 72\u00ba, por lo que me toco cambiar los ventiladores del gabinete y la fuente a una 750W para poder ponerle una mejor refrigeraci\u00f3n, ahora me va a 69\u00ba 65\u00ba sac\u00e1ndole el m\u00e1ximo provecho"
+                },
+                {
+                    "title": "Powerful small card, pretty damn loud.",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on August 27, 2022",
+                    "text": "Good price , powerful little card, very noisy in my case. My 2060 never got as loud as this card did, I\u2019m not sure if it\u2019s cause it is the OC edition and my b460 d3sh does not support over clocking so maybe that had something to do with it, but it got pretty damn loud. But i had a i5 10400F in at the time which bottlenecks it especially in 1080p but I was still getting around 140 frames with high settings in 1440p. Also, this Is obviously a 2 fan GPU, I feel like 3060 ti and up you should look for a card that has 3 fans for better cooling and noise. I returned it not even 10 days of owning it for the evga FTW 3070 which is suppose to have GREAT cooling."
+                },
+                {
+                    "title": "Great upgrade",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 27, 2022",
+                    "text": "Upgraded from a 1660 TI and this blows it away. I can finally play with RTX enabled. This even has a nice white LED branding on the side that blends in well with other RGB."
+                },
+                {
+                    "title": "Great value for performance",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 11, 2022",
+                    "text": "Definitely a good mid-tier GPU finally at a decent price. I got it for not much over MSRP. If you can get the 3070 for 500 or less I would go for that still though. I'm not sure why anyone would say it runs hot or needs better cooling. Mine runs at a steady 65c while under stress and 35c idling) I also undervolted it just a little (925mv @ 1950MHz and +350 on the memory clock)"
+                },
+                {
+                    "title": "Works perfectly",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 8, 2022",
+                    "text": "GPU works well, performs as exactly as expected. So far, zero issues."
+                },
+                {
+                    "title": "Only bought this to get more fps and better graphics on Cyberpunk after watching Edgerunners",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 5, 2022",
+                    "text": "Now I love Cyberpunk 2077!\n\nAlso great GPU, good premium feel, decent cooling!"
+                }
+            ]
+        },
+        {
+            "label": "ZOTAC Gaming GeForce RTX\u2122 3090 Trinity OC 24GB GDDR6X 384-bit 19.5 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, Spectra 2.0 RGB Lighting, ZT-A30900J-10P",
+            "price": "981.91",
+            "description": "Get Amplified with the all-new ZOTAC GAMING GeForce RTX 30 Series based on the NVIDIA Ampere architecture. Built with enhanced RT Cores and Tensor Cores, new streaming multiprocessors, and superfast GDDR6X memory, the ZOTAC GAMING GeForce RTX 3090 Trinity gives rise to amplified gaming with ultra graphics fidelity. Features: - 2nd Gen Ray Tracing Cores - 3rd Gen Tensor Cores - SPECTRA 2.0 RGB Lighting - IceStorm 2.0 Advanced Cooling - FREEZE Fan Stop - Active Fan Control - Metal Frontplate and Lighted Backplate - FireStorm Utility - VR Ready.",
+            "rating": "3.9",
+            "Reviews": [
+                {
+                    "title": "RUNS HOT!",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 14, 2022",
+                    "text": "I have 3 front fans (taking in fresh air from outside), 1 rear fan (taking out hot air from inside), 3 top fan (for a 360 Corsair LCD Elite AIO cooling an i9 12900K), and still this GPU runs 52 degree Celsius (at idle), and goes up to 75+ under load (shadow of the tomb raider at ultra settings, 5120 x 1440 resolution), VRAM reaches a melting 98 to 100! I have not had any BOD or sudden app problems, but it worries to see such high temps."
+                },
+                {
+                    "title": "Definitely hot",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 5, 2022",
+                    "text": "It does run hot but I figured out why. In the zotac firestorm software there is a gpu temp target. It sits way too high. Unlock the link between the temp target and the power percent and you can bring down the temp target. I set mine to 75 and it runs much cooler now by ramping up the fan speed sooner rather than later. This gpu has a massive thermal mass. Making the fans need to come on sooner to overcome the hysteresis caused by the temp sensors and thermal mass."
+                },
+                {
+                    "title": "Thermals are decent",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 2, 2022",
+                    "text": "Card works as intended and thermals better than expected"
+                },
+                {
+                    "title": "Long heavy fat round card",
+                    "rating": "3",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 8, 2022",
+                    "text": ""
+                },
+                {
+                    "title": "Enjoyed it while it lasted.",
+                    "rating": "3",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 9, 2022",
+                    "text": "VRMs got really hot (over 100 C) was not a big fan of it. Ended up returning it"
+                },
+                {
+                    "title": "Get some more case fans",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on May 29, 2022",
+                    "text": "This GPU has a very 'open' heat sink design meaning a lot of the air that cools the GPU may end up back in the case and recycled. To get good performance, you need good circulation of air through the case.\n\nWhen I first installed the GPU I had two case fans; One intake fan in the front and one exhaust fan behind the CPU. In this configuration, the GPU was running at >80c and throttling down to <750MHz. Now that I've installed a couple more intake fans in the front, I get a reliable >1700MHz performance at <65c. That leaves plenty of room for tuning/overclocking above that.\n\nIf you are spending >$1000 on a GPU, you can afford $10 for case fans to unlock that performance."
+                },
+                {
+                    "title": "Great Card Specs..... Disappointing performance.",
+                    "rating": "2",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on August 1, 2022",
+                    "text": "It seems that my new card frequently stutters and causes frame lag on the games I'm playing. Ordinarily I would assume it was the CPU or something else at play, but the powersupply is more than enough, and the same games ran fine with an old RX-570 8gb.\n\nMaybe thats the deal, just because it's a nice card, with more features doesn't make it a better card?\n\nSave your money, get an rtx3070 or rtx 3080. The rtx 3090 isn't worth the additional $500-$800.\n\nConsidering returning, and downgrading( upgrading to a card with no frame lag) to an rtx 3080"
+                },
+                {
+                    "title": "For so long",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on July 22, 2022",
+                    "text": "Waited and waited but due to gpu and silicone shortage had me running my 2080 ti so long and very impressed with the upgrade in graphics. Fans are sometimes very loud"
+                },
+                {
+                    "title": "3 slot 3090",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on November 2, 2021",
+                    "text": "Of note these are 3 slot spaced GPU s not 4 so if you are looking to use a link bridge make sure it is compatible, or get a PCIe cable and position them wherever you want. otherwise they are like most 3090s they do run on the warm side so make sure your case is properly equipped to handle the heat"
+                },
+                {
+                    "title": "Not a 5 star because of memory temp issues",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on December 2, 2021",
+                    "text": "Like most GDDR6X, comes with really poor thermalpads IMO, i own founders edition 3090 and Gygabyte OC 3090's that didnt have this type of hardcore heat issues, it doesnt go below 95 celcius with A/C and fans and without them it throtles at 110"
+                }
+            ]
+        },
+        {
+            "label": "ZOTAC Gaming GeForce RTX 3060 Twin Edge OC 12GB GDDR6 192-bit 15 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Cooling, Active Fan Control, Freeze Fan Stop ZT-A30600H-10M",
+            "price": "341.00",
+            "description": "Get Amplified with the ZOTAC GAMING GeForce RTX 30 Series based on the NVIDIA Ampere architecture. Built with enhanced RT Core and Tensor Cores, new streaming multiprocessors, and high-speed GDDR6 memory, the ZOTAC GAMING GeForce RTX 3060 Twin Edge OC gives rise to amplified gaming with high fidelity. FEATURES: GDDR6 Graphics Memory, 2nd Gen Ray Tracing Cores, 3rd Gen Tensor Cores, VR Ready, IceStorm 2.0 Advanced Cooling, Active Fan Control with Freeze Fan Stop, Metal Backplate, NVIDIA DLSS, NVIDIA G-SYNC compatible. SPECIFICATIONS: NVIDIA GeForce RTX 3060 GPU, 3584 CUDA cores, 12GB GDDR6 memory, 192-bit memory bus, Engine boost clock: 1807 MHz, Memory clock: 15.0 Gbps, PCI Express 4.0 16x. SOFTWARE COMPATIBILITY: Game Ready Drivers and NVIDIA Studio Drivers, Microsoft DirectX 12 Ultimate, Vulkan RT API, OpenGL 4.6, Windows 10 64-bit (build 2004 or later). CONNECTIONS: 3 x DisplayPort 1.4a (up to 7680x4320@60Hz), 1 x HDMI 2.1 (up to 7680x4320@60Hz), HDCP 2.3 support, Quad simultaneous display capable. POWER REQUIREMENTS: 600-watt power supply recommended, 170-watt max power consumption, 8-pin power connector. INSIDE THE BOX: ZOTAC GAMING GeForce RTX 3060 Twin Edge OC, user manual. DIMENSIONS: Length: 224.1mm (8.8in), Height: 116.3mm (4.6in), Width: Dual slot (39.2mm) (1.5in) BOX: Height: 283mm (11.1in), Width: 218mm (8.6in), Depth: 83mm (3.3in).",
+            "rating": "4.6",
+            "Reviews": [
+                {
+                    "title": "UPDATED (Arrived with issues, still waiting to hear back from support)",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 4, 2022",
+                    "text": "UPDATE: Support did get back to me and in the process of getting information about the RAM modules, they are not both working and I have the advertised 16gb. I've updated the rating to four stars because support was still quite slow to get back to me and there wasn't a quicker, more direct way to contact them. The computer works as intended now and the damaged case isn't the manufacturer's fault.\n\nORIGINAL REVIEW:\nArrived with some cosmetic damage to the top front of the case. This isn't the seller/manufacturer's fault but certainly worth noting. It runs fine and has a lot of performance for the money. The reason it gets one star is because Windows is only reporting 8gb of RAM, and it's supposed to have 16. I checked to make sure both sticks are seated but still only showing 8gb. I contacted support through the only method possible - a form on their website. I've heard nothing back besides the automated reply. It's been five days. I am also unable to register it because it seems like the model is discontinued and the model isn't an option on the registration form. Overall the computer is fine, notwithstanding defective RAM. However, five days and no reply after I've received a defective product is unacceptable and I cannot recommend this computer based on that alone."
+                },
+                {
+                    "title": "Thankful for Amazon Payments",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 10, 2022",
+                    "text": "Bought this lovely piece of hardware with Amazon's payment plan, and I'm VERY glad for that. After the first payment, they send you the product, and you pay in monthly parts. THAT BEING SAID, This card is great for what I need. I've been creating 3D assets, VRchat Worlds, and VRchat Avatars, along with more Digital Artwork, and it's been able to handle it beautifully. Not to mention being able to finally play newer PC games, which is a plus."
+                },
+                {
+                    "title": "Amazing",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 3, 2022",
+                    "text": "Great graphics card i have been using zotac for 5 years and it never lets me down. Make sure you download a software to make gpu fans run faster so temperatures are not high. If you know how to modify fans i suggest to do it so you wont kill this gpu in a year. This is a special kind of gpu with 12gb it can play anything just make sure you have good ventilation in your case."
+                },
+                {
+                    "title": "Great bang for your buck!",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 5, 2022",
+                    "text": "I'm not a bleeding-edge enthusiast, but I love seeing the best in my games. I upgraded from a GTX 1050, and this card has let me max-out my settings without breaking the bank!\n\nGames that run great at 1080p, 60hz, max settings:\n-Control\n-Cyberpunk 2077\n-Doom: Eternal\n-Elden Ring\n-Outriders\n-RDR2\n\nOverall, a great card for modern gaming. It'll be a long time before I'll be needing another upgrade."
+                },
+                {
+                    "title": "You get what you pay for",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 29, 2022",
+                    "text": "I got this at a huge discount (1200) but it wouldn't be worth it at full price. AIO was scuffed up which had me worried CPU was damaged and wouldn't even boot but it did, one of the fans on AIO radiator has a decent wobble to it. One of the display port connections in the graphics card is extremely temperamental and goes off for like no reason at all.\nAside from that, its starts, runs and operates like anything you could ever expect out of a base model gaming computer."
+                },
+                {
+                    "title": "It work buuttt.....",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 4, 2022",
+                    "text": "This gpu works great, tho the couple problems I have are the fan noise level when it turns on, the warm plastic smell still comes and goes and the metal rack on the back came bent so I couldn't properly screw it in (had to diy it). The last one is probably my biggest issue. I bought it new but tbh I'd expect nothing less from something \"made in China\" sadly."
+                },
+                {
+                    "title": "Great price for a GPU related Work Tasks.",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 10, 2022",
+                    "text": "works good for compute tasks due to high vram, have not tried with gaming, but im sure its fine as well. you NEED to download the fan tool (firestorm) or your card will overheat and die, but thats minor."
+                },
+                {
+                    "title": "Upgrade for my Alienware",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 15, 2022",
+                    "text": "Finally an affordable upgrade from the stock 1080 GTX my system came with."
+                },
+                {
+                    "title": "Excelente Tarjeta",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 2, 2022",
+                    "text": "La compr\u00e9 y no me decepcion\u00f3 para nada, anda muy bien.\n\nAlgunos de los juegos en la que la utilizo son Forza Horizon 5, Fortnite, GTAV, WarZone, entre otros."
+                },
+                {
+                    "title": "Runs Without Complaint",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 28, 2022",
+                    "text": "A bit on the expensive side but GPUs in general are pricy. Runs nearly everything I throw at it, fans are a bit noisy but thats to be expected"
+                }
+            ]
+        },
+        {
+            "label": "ZOTAC Gaming GeForce RTX\u2122 3070 Ti Trinity OC 8GB GDDR6X 256-bit 19 Gbps PCIE 4.0 Gaming Graphics Card, IceStorm 2.0 Advanced Cooling, Spectra 2.0 RGB Lighting, ZT-A30710J-10P",
+            "price": "610.29",
+            "description": "Get Amplified with the ZOTAC GAMING GeForce RTX 30 Series based on the NVIDIA Ampere architecture. Built with enhanced RT Cores and Tensor Cores, new streaming multiprocessors, and superfast GDDR6X memory, the ZOTAC GAMING GeForce RTX 3070 Ti Trinity OC gives rise to smooth and high-fidelity gaming. FEATURES \u2022 SPECTRA 2.0 RGB Lighting \u2022 IceStorm 2.0 Advanced Cooling \u2022 Active Fan Control with FREEZE Fan Stop \u2022 Metal RGB LED Backplate \u2022 GDDR6X Graphics Memory \u2022 2nd Gen Ray Tracing Cores \u2022 3rd Gen Tensor Cores \u2022 VR Ready, NVIDIA DLSS \u2022 NVIDIA GeForce Experience \u2022 NVIDIA G-SYNC, NVIDIA GPU Boost SPECIFICATIONS \u2022 NVIDIA GeForce RTX 3070 Ti GPU \u2022 6144 CUDA cores \u2022 8GB GDDR6X memory \u2022 256-bit memory bus \u2022 Engine boost clock: 1800 MHz \u2022 Memory clock: 19.0 Gbps \u2022 PCI Express 4.0 16x CONNECTIONS \u2022 3 x DisplayPort 1.4a (up to 7680x4320@60Hz) \u2022 1 x HDMI 2.1 (up to 7680x4320@60Hz) \u2022 HDCP 2.3 support \u2022 Quad simultaneous display capable SOFTWARE COMPATIBILITY \u2022 Game Ready Drivers and NVIDIA Studio Drivers \u2022 Microsoft DirectX 12 Ultimate, Vulkan RT API \u2022 OpenGL 4.6 \u2022 Windows 10 64-bit (build 2004 or later) POWER REQUIREMENTS \u2022 750-watt power supply recommended \u2022 310-watt max power consumption \u2022 2 x 8-pin power connector DIMENSIONS \u2022 Length: 317.6mm (12.5in) \u2022 Height: 117.6mm (4.6in) \u2022 Width: 2.5 slot (58.8mm) (2.3in) Box \u2022 Height: 292mm (11.5in) \u2022 Width: 424mm (16.7in) \u2022 Depth: 99mm (3.9in) INSIDE THE BOX \u2022 ZOTAC GAMING GeForce RTX 3070 Ti Trinity OC \u2022 2 x Dual 6-pin to 8-pin cable \u2022 User Manual.",
+            "rating": "4.6",
+            "Reviews": [
+                {
+                    "title": "Great card, great value",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 13, 2022",
+                    "text": "I got this earlier in the year (2022)when it was a little more expensive, but I still don\u2019t regret it. I upgraded from the Rtx 2060 super and I can really tell the difference in frames at 1440p on my 165hz monitor, it\u2019s been about six months now and I haven\u2019t had any problems. But I will say that It can get kinda loud, I don\u2019t notice most of the time bc it\u2019s only in intense gaming and the game is usually loud too so unless I take my headset off I don\u2019t notice it. But it may be an issue if you have other people in the room trying to sleep or what not.it\u2019s fans have an option to stay off tho when using low power so that helps a lot to offset the noise issue. But anyway, this papacy all of my games at any setting I want and after using it for six months I can safely recommend this card to anyone, especially at its current price of ~600$ right now"
+                },
+                {
+                    "title": "Nice card, but a bit loud.",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on August 30, 2022",
+                    "text": "I seen somebody said they can't hear any fan noise from this card, but I really just can't believe that. The only game I've played is tiny tina wonderland so far and it revs up pretty loud, I actually have to lower the fan speed in afterburner to 60% to not hear it. My case and case fans are cool and quiet, so not sure why its revving so loud, the game is not a tough game to run. Doesnt really bother me at all, just can't believe people are saying it has no noise."
+                },
+                {
+                    "title": "Good good but overpriced",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 12, 2022",
+                    "text": "Got it at 30% markup instead of 200% markup, but still a bit salty about it"
+                },
+                {
+                    "title": "Finally",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 4, 2022",
+                    "text": "Finally I can get one of these at retail. The wait is over and boy was it worth it.\n\nIt's a 3070ti. Very mild overclock, nothing special. This is the base model version. Was a great upgrade from my 1070."
+                },
+                {
+                    "title": "Wish I would have waited to buy",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 6, 2022",
+                    "text": "Love the card and is great for gaming. Upgraded from a Zotac 3060, so big jump in performance. The card keeps itself cool and runs great. Would recommend."
+                },
+                {
+                    "title": "Powerful but bulky.",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on April 5, 2022",
+                    "text": "While it may not be as ultra powerful as the 3090 Ti, it still packs a punch! The only complaint that I have, is that it is way too bulky and big for my custom gaming desktop. I am not sure why but it just takes up so much space! Not to mention that you have to use the PSU cables, just to plug it up. (I am not really a fan of GPUs that require you to plug something up to it) It's asking price is pretty debatable too and they are becoming harder to find online! Hopefully when the 4000 Ti graphic card series is finally released to the public, ZOTAC will take notes and make their GPUS a little smaller, a certain percentage cheaper and will not require us to have to use PSU cables. I highly recommend this GPU over the now common 3060 Ti!"
+                },
+                {
+                    "title": "Great if you can get it at/below msrp",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on April 20, 2022",
+                    "text": "I bought this when there happened to be a sale and it was below msrp even at the zotac website (I got it for ~770 before tax, and on Zotacs website they sell it at ~850).\n\nIt works great. Before this I was running my computer on integrated graphics with a ryzen 5 5600g, and that worked great by itself for the games I play but I wanted to be able to stream or render 3d models without suffering, and never worry about lag in games.\n\nA 2080 is good enough for what I wanted, and a 3070 ti like this is MORE than enough. If its below msrp, or even /slightly/ above, its definitely worth buying this card.\n\nNow that my cpu doesn't have to run graphics at the same time as other things (for reference it used to say in task manager my graphics was at 40% when I was using integrated even just basic website idling, now idle its barely at 5%), I have no doubt my computer will run way better and I'll had a better time gaming.\n\nTldr: Amazing card, but its better if you can buy it at a sale price as everything is hella inflated."
+                },
+                {
+                    "title": "Great card, no complaints",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on June 23, 2022",
+                    "text": "What can I say? It\u2019s a 3070TI. It\u2019s a beast of a card, especially for the price I paid ($750). It runs all my games on 1440p at 120+ FPS on the highest settings. I do see some people saying this card is loud, but I have not ran into that issue at all. Even after gaming for 8+ hours straight this card was at around 68c and the fans were barely audible. It\u2019s worth mentioning that my tower sits on my desk next to my monitors, so if the noise was bad, I would definitely hear it. I don\u2019t have any complaints about this card. It\u2019s exactly what I hoped it would be, and it has exceeded my expectations on performance."
+                },
+                {
+                    "title": "THIS GPU IS LHR",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on August 20, 2022",
+                    "text": "This GPU is LHR and was not mentioned in any description."
+                },
+                {
+                    "title": "Noisy but good",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on June 26, 2022",
+                    "text": "For the price I'd wait for a 3080 to go on sale, but other then that it runs perfectly fine with no issues, the noise can be annoying when running something that requires it"
+                }
+            ]
+        },
+        {
+            "label": "EVGA GeForce RTX 3070 FTW3 Ultra Gaming, 08G-P5-3767-KL, 8GB GDDR6, iCX3 Technology, ARGB LED, Metal Backplate, LHR",
+            "price": ".",
+            "description": "EVGA GeForce RTX 3070 FTW3 ULTRA GAMING, 08G-P5-3767-KL, 8GB GDDR6, iCX3 Technology, ARGB LED, Metal Backplate, LHR.",
+            "rating": "4.8",
+            "Reviews": [
+                {
+                    "title": "Poderosa RTX 3070",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 9, 2022",
+                    "text": "Compr\u00e9 est\u00e1 RTX 3070 por el motivo de querer actualizar mi computador y cambiar mi RTX 2060 de 12gbs\nNo me esperaba un salta tan grande pero vaya sorpresa que me lleve al probar esta RTX 3070 el cambio de tecnolog\u00eda y calidad es muy grande <3 poder jugar Warzone todo en ultra a 1920x1080 con resoluci\u00f3n al 200% por encima de 100 fps es un mounstro de gr\u00e1fica\nMuy satisfecho con la compra\nS\u00f3lo compro productos de EVGA por su calidad en todos sus productos y este no ser\u00eda la excepci\u00f3n\nUna lastima que no hagan la serie 4000 \ud83e\udd72\ud83e\udd79\ud83e\udd79\ud83e\udd72\nManeja unas temperaturas muy buenas\nEn mi caso no supera los 50\u00b0 una lucara\nEvga siempre est\u00e1 por delante de los dem\u00e1s"
+                },
+                {
+                    "title": "great 3070",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 6, 2022",
+                    "text": "well, it runs chill, very chill \u2013 something about 63 Celsius fully loaded in my case. lazy overclocking gives me 2070mhz boost (+150 core) and some memory speed (+250mhz). overall, I guess nvidia became crazy with their pricetags and fake FPS, so next time I'll try AMD."
+                },
+                {
+                    "title": "Best performance for price EVER",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 28, 2022",
+                    "text": "heard they were getting rid of these, and i've been dying to upgrade for so long. luckily i had enough saved up to snag this before EVGA quits the graphics card for good! what a relic! my previous graphics card was a gigabyte 1650, and this is a massive upgrade. so far, no problems running high quality at 144 hz, and vr looks amazing!"
+                },
+                {
+                    "title": "A great video card that'll satisfy the needs of the vast majority of gamers.",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on August 30, 2022",
+                    "text": "I run two monitors, one at 1080p, the main at 1440p. Since I don't have high refresh monitors I V-sync at 60hz. Every game I play, new and old, is beautiful and smooth. I don't suffer FPS drops or stuttering of any kind. The only game I don't max settings on is Forza Horizon 5 but that's due to graphical issues they've yet to fix with the game, not the card.\n\nEVGA is the only brand I buy for video cards. I've had such a good experience with the company. I was going to get the 60 series but the EVGA card wasn't available so I upgraded to the 70 series. Not disappointed and I don't regret it at all."
+                },
+                {
+                    "title": "Good service",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 10, 2022",
+                    "text": "Fast Delivery and no problems with product was in perfect condition with no damage"
+                },
+                {
+                    "title": "Works great",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 6, 2022",
+                    "text": "Helped build a pc using this gpu, and have no real issues. Computer works fine. Plays Forza Horizon 5 on 1080p with far more than 100fps on high. I play on a similar version gpu and get a bit over 100fps at a mixture of high and medium settings on Forza as well. Can't complain."
+                },
+                {
+                    "title": "A good GPU, was able to get it for a good price, did require upgrading other OEM components",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on August 15, 2022",
+                    "text": "I was upgrading my son's computer from a gtx 2060 to this card. Got it for a good price, works great, though we had to upgrade his computer to a new case and motherboard since the HP Omen 30L series GTX13-0024 did not fully support the card's length and the proprietary HP AMD motherboard's designed location for motherboard power connector interfered also with installing the new GPU into PCIe slot. Replaced motherboard, case , and cpu cooler to complete the upgrade."
+                },
+                {
+                    "title": "Great gpu",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 17, 2022",
+                    "text": "Good gpu for the price, nice little oc switch for better temps"
+                },
+                {
+                    "title": "balls",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 18, 2022",
+                    "text": "i can play cool math games"
+                },
+                {
+                    "title": "Grinding fan",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on August 23, 2022",
+                    "text": "Amazing for gaming. Runs nice and cool. One of the fans I think rubs up against the side of the plastic housing and makes a weird noise every now and then. Doesn\u2019t affect performance in anyway just weird."
+                }
+            ]
+        },
+        {
+            "label": "ZOTAC Gaming GeForce GTX 1660 Super 6GB GDDR6 192-bit Gaming Graphics Card, Super Compact, ZT-T16620F-10L",
+            "price": "215.54",
+            "description": "The all-new generation of ZOTAC gaming GeForce GTX graphics cards are here. Based on the new NVIDIA Turing architecture, it's packed with GDDR5 Fast memory. Get ready to get fast and game strong.\nfeatures\nsuper compact\n4K, HDR, and VR ready\nNVIDIA ansel\nNVIDIA G-SYNC compatible\n\nspecifications\nNVIDIA GeForce GTX 1660 Super gpu\n1408 CUDA cores\n6GB GDDR6 memory\n192-bit memory bus\nengine boost clock: 1785 mhz\nmemory clock: 14.0 gbps\nPCI Express 3.0\nconnections\n3 x DisplayPort 1.4 (up to 7680x4320@60hz)\n1x HDMI 2.0B (up to 3840x2160@60hz)\nQuad simultaneous display capable\n\npower requirements\n450-watt power supply recommended\n125-watt Max power consumption\n\nsoftware compatibility ready drivers\nmicrosoft direct 12 API, Vulkan api\nopengl 4.Microsoft Windows 10 (April 2018 Update or later) /7 x64\n\ninside the box\nzotac gaming GeForce GTX 1660 Super twin fan\nuser manual\n\ndimensions\nlength: 209.6mm (8.3In)\nheight: 119.3mm (4.7In)\nwidth: 2 slots (41mm) (1.61In)\nbox\nheight: 283mm (11.14In)\nwidth: 218mm (8.58In)\ndepth: 83mm (3.27in).",
+            "rating": "4.7",
+            "Reviews": [
+                {
+                    "title": "Good value considering the current ridiculous graphics card market",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 7, 2022",
+                    "text": "I got this for my wife. She uses her i7-12700K based machine mostly for rendering still images, so this is just what I thought was an adequate card which is below the steep part of the price performance curve. After building the machine I ran the Passmark tests and was surprised to find that this has substantially better 2D performance (1255) than my RTX3070 (943), 3D performance for the 1660 Super was 14,168 compared to 24,787 for the RTX3070. Considering she mostly needs 2D and I mostly need 3D I guess we both got what we needed.\n\nWhile testing and installing software I ran a 3440x1440 144Hz monitor on Display Port and a 3840x2160 TV on HDMI and both looked good. No signs of the card running out of performance or bandwidth. On an old GTX980 the fast monitor gave color fringes until I turned it down to 60Hz.\n\nI wouldn't hesitate to buy this card again for any normal PC. Unless you are playing very high resolution 3D games it should do everything you want."
+                },
+                {
+                    "title": "MUCH better than I thought",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 10, 2022",
+                    "text": "I got this little guy when my old, reliable 980ti finally kicked the bucket....during the COVID chip shortage, of course. I was a little marked up but, still affordable. I was shocked at how well the Super performed and how close in numbers it was to the TI version. For affordable gaming, you can't beat this little beast."
+                },
+                {
+                    "title": "installed perfect in HP GAMING desktop",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 4, 2022",
+                    "text": "package arrived with no damage opened box and installed this 1660 Super in my wifes gaming desktop\n(one of wally world specials) had a little problem getting the connectors to hook up to the power. other then that PC saw video card i went to Nvidias website and played GTA. and immediately saw a BIG diffrence in the graphics. also tested RDR2 the ONE game she couldnt play thanks to HP! loaded that up and my wife was very happy. thought Video card was gonna be bigger but it fit\nWOULD order from this seller again."
+                },
+                {
+                    "title": "All Settings Maxed",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 14, 2022",
+                    "text": "This card is the top of the line for the technology I had available in my case. I can play all the games I have currently at full settings and with no issues. Excellent card if you have slightly older motherboard and processor."
+                },
+                {
+                    "title": "fantastic product BUT",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on August 13, 2022",
+                    "text": "its smooth lol but its no rtx clearly it serves what i need for now i do recommend it if your on a budget"
+                },
+                {
+                    "title": "Performs well for pretty most of the games.",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on August 11, 2022",
+                    "text": "Like it. For general games and school and video editing."
+                },
+                {
+                    "title": "Funciono a la primera",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on August 18, 2022",
+                    "text": "Recomendable para placas madre de pci 3.0"
+                },
+                {
+                    "title": "Exceptional Performance from small card!",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on December 11, 2021",
+                    "text": "My goal was being able to play the newer games on my Dell, more specifically, FC4. I had bought the RX 570 which did a great job, but for some reason, it was extremely noisy. It made a loud whirring sound every time I played the game. The other games I've played, Fallout 3 and 4, Crysis, the card didn't make those horrible sounds. Realizing the cost of gpu's are rapidly escalating, I checked out the GTX 1660 Super. I checked it with games-debate and it was superior to the RX 570. The frame rates are incredible! Also, a BIG plus was the small size of the card. I already had an 8 pin adapter to plug it in and it installed super easy and ran like a dream. The temperature of the card runs within the norm and has made an incredible difference in game play. I highly, VERY highly recommend this card! It's a good price for the card and it delivers exceptional performance if you're unable to get the higher end gpu's. It's worth the price!"
+                },
+                {
+                    "title": "Good at the price for typically Ultra settings",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 25, 2020",
+                    "text": "I am using a Ryzen 5 1600 paired with a 660ti so this upgrade for me was very substantial and really the cheapest way to break into ultra settings with 60+ FPS (usually above 75fps even in modern games like borderlands 3) which is perfect since I have a 1080p monitor with a 75hz refresh rate. Anything stronger than this card would yield better results but, would probably be bottlnecked past a rtx 2060 or 2060s which is the next price bracket above this card. So this really works well with the 2016 released Ryzen 5 I\u2019m using. I think at the $249 I paid in about June of 2020 was very fair and I have been very happy with it overall. If you have more money get an RTX 2060s but at $250 or slightly under this is a great option. This card is small so it\u2019ll fit in to many cases, not quite a low profile but smaller than some single fan designs I\u2019ve seen. For its size it also weighs more than I\u2019d expect it to eluding to a nice heat sink. Overall the thermals are not bad and I have overclocked it utilizing the OC feature on MSI afterburner and now my clock speed is around 1700 and boosts up a little past 2000 which is actually pretty great for just using the stock cooler. It isn\u2019t very loud and I do have an open case design so I would be able to quickly tell. I like that the card is simple because some look obnoxious but, I would have liked even just a simple clean backplate especially since I\u2019ve seen cheaper 1650 cards with backplates for $100 less than this card."
+                },
+                {
+                    "title": "Regular",
+                    "rating": "3",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 27, 2022",
+                    "text": "Nada interesante"
+                }
+            ]
+        },
+        {
+            "label": "ASUS ROG Strix NVIDIA GeForce RTX 3070 Ti OC Edition Gaming Graphics Card (PCIe 4.0, 8GB GDDR6X, HDMI 2.1, DisplayPort 1.4a, Axial-tech Fan Design, 2.9-Slot, Super Alloy Power II, GPU Tweak II)",
+            "price": "759.99",
+            "description": "The ASUS ROG Strix GeForce RTX 3070 Ti OC Edition 8GB GDDR6X features three Axial-tech fans and a larger heatsink that features more fins and surface area. An aggressive ROG shroud design and AURA Sync RGB lighting ensures your card delivers maximum performance and style.",
+            "rating": "4.7",
+            "Reviews": [
+                {
+                    "title": "Best graphics card I've ever owned!!",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 24, 2022",
+                    "text": "I upgraded from the XFX RX 580 Black Edition. While that card held its own for about 5 years... This 3070ti blows it away. I was having slight temperature increases, up to about 80 F. Now, I max out around 65. Wow, just wow. The whole computer is running SOOO much better. I know the price point is incredibly steep, but just do it. It will be well worth it. I did have to upgrade the power supply from a 550w to a 750w. Mostly, for the PCI-E 8 pin connections, the 3070ti requires 3 separate 8 pin connections. Just for reference my build is, Ryzen 5 3600, 16gb DDR4 3000 mhz, Gigabyte Aorus Ultra X570. Also, I bought the ROG Herculx Stand for extra support. The RGB looks amazing but, the stand is not necessary. The motherboard more than supports this hefty card. JUST BUY IT!!!!"
+                },
+                {
+                    "title": "Beast!",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 29, 2022",
+                    "text": "this is a great card even going from a 2060 super to this I got 60-80 more fps in most tittles with the same graphics settings. Playing most of everything in 2 k with high settings and hitting my 144hz refresh limit. butter smooth and pushes out fps with out pulling out too much wattage. only down side was getting the power connected correctly. Oh and temps are amazing never seen it go past 65 c even with big OCs."
+                },
+                {
+                    "title": "STRIX Card Wins",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 12, 2022",
+                    "text": "After a couple months of use, I can run any game I have installed at 1080p and highest settings. Once I get a 1440p monitor I will update this review with results. Top tier GPU, will run anything."
+                },
+                {
+                    "title": "big resistent perfect",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on October 2, 2022",
+                    "text": "beautiful"
+                },
+                {
+                    "title": "Love it!!",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on August 13, 2022",
+                    "text": "Upgrading from a 2070 RTX Super. What a difference. I live stream video games and it has made such a difference in not just what I see, but what my viewers see. The one thing you need to be aware of is that this thing is huge! I had to buy a different case. Be sure to check the dimensions to make sure it will fit (use the website to make sure of fit and compatibility). Price was much lower than they had been, but still a little high."
+                },
+                {
+                    "title": "Great 1440p card with some issues",
+                    "rating": "4",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on July 31, 2022",
+                    "text": "The Asus card has good cooling and decent aesthetics, even if they are a bit juvenile in my opinion. But the exaggerated price for essentially strix name and extra plastic just don't justify the end product. The 3070 TI just does not come close enough to the 3080 to justify its existence therefore I would suggest holding off for a 3080 or sticking with a 3070 because this really does not offer anything over either one of those classes except a bloated price point."
+                },
+                {
+                    "title": "Looks amazing, stays very cool",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on July 18, 2022",
+                    "text": "I typically go for and msi GPU when I\u2019m looking to upgrade, but The Asus ROG design for the 30 series cards look absolutely stunning, the RGB is very smooth with plenty of options on the software. I have done several benchmarks and the card has not gone over 70 Celsius, and stays quiet even at that temperature. This card stays cool even in a case like mine that is considered to have poor airflow. I would say if your looking for a 3070 ti, get the ROG card, however the ROG card consumes more power than other models (3 8-pin) also, I don\u2019t think this is a significant enough upgrade from the 3070, if you have a 3070 now and you want to upgrade to for a 3080 or 3080ti. Overall this is a great card for the price."
+                },
+                {
+                    "title": "For game is one of the best",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 18, 2022",
+                    "text": "very good for video games."
+                },
+                {
+                    "title": "Great video card",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 2, 2022",
+                    "text": "After months of use this card is great no problems at all just a little pricey but it's is the best at what it does"
+                },
+                {
+                    "title": "It works great.",
+                    "rating": "5",
+                    "location-date": "Reviewed in the United States \ud83c\uddfa\ud83c\uddf8 on September 1, 2022",
+                    "text": "I don't know much about the components, but my friends all said it was the best value for the money."
+                }
+            ]
+        }
+    ]
+}

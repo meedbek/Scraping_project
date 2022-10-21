@@ -1,0 +1,71 @@
+\section{Scrapping Process}
+\subsection{Introduction}
+In this section we will go through all the process of scrapping graphic cards data from amazon website.
+
+\subsection{Analysing Amazon Website}
+Our goal of the project is scrap graphic cards data sold in Amazon Website.
+
+Searching for the product may be something tricky in websites like amazon, sometimes searching for a product by typing its name may be something tricky as the result may be random.
+For example if you search for computers, your search result will not only contain computer you'll get also computer parts, monitors, computer support, software or anything product that has the name computer in it, even though it wasn't the case when we tried searching for graphic cards on Amazon but we tried to avoid searching using the search bar.
+
+The solution here is to search by categories, when doing so the results will be more accurate. Amazon offers this option as well as most of online shops websites.
+% Add the photo that shows the categories
+
+This web page below will be our starting point we copied the link and saved it somewhere to start scrapping from it.
+% Add page
+
+At the end of the page their is a button that we click on to get to the next page.
+%add the photo that shows next button 
+
+After clicking on a selected product we get into another page and that's where we will be scrapping data about that specific product.
+%show the page of an example of a graphic cards
+
+This image contains all data that we're looking for which are the label, price, description, rating.
+
+Then at the end of the page we can see the reviews of past buyers. But as you may noticed you can't see the full list that why we need to click the button that allows as to get into the full list.
+%show the show full reviews button next to the reviews
+
+After doing so we get into our final page which is the page that holds the reviews of a specific product again from this this page we can retrieve information of every review such as : title, rating, location \& data and the comment or text of the user.
+%show the reviews page with all the informations 
+\subsection{Technologies \& Environment}
+
+For the technologies used to scrap the data, we used :
+\begin{itemize}
+    \item Python : Python is the best language for this project as it has many framework and tools and built in functionalities that makes managing data so simple and easy and effective that's why their no better language for this project other than python.
+    % add python logo
+    \item Selenium : Amazon website is a dynamic website meaning we can't scrap data from it using Request only, also we need to do some operations like clicking buttons and these operations request an automating web framework like selenium, that's why selenium is the best framework to use for our scrapping project.
+    \item Jupyter Notebook : The Jupyter Notebook is an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text.\cite{\url{https://realpython.com/jupyter-notebook-introduction/}}
+\end{itemize}
+
+
+\subsection{Useful functions}
+In the process of coding the script that will scrap our data we defined two functions that made the task much easy :
+\begin{itemize}
+    \item xpath(className, context=False) : this function returns the XPATH of any HTML tag given, the className is a list of tags in form of a String.
+    \item retreiveRating(text) : this allows to retrieve the rating from a text, because the rating we extracted was not in the form we wanted we had to do a transformation on it for example if text = 'the rating is 4-5' then the return value is 4.5
+\end{itemize}
+
+\subsection{Development steps}
+These are the steps we followed to write our scrapping program.
+\begin{itemize}
+    \item Load the Web Driver (Google Chrome driver)
+    \item Open the Amazon link for the graphic cards
+    \item Get products links
+    \item Iterate over all pages and keep saving the links
+    \item Save the links extracted in a JSON file with the key is the link and value is 0
+    \item Load the links
+    \item Iterate over each link
+    \item Get the label, label, price, description, rating.
+    \item Check if there are any reviews.
+    \item Go into the reviews page.
+    \item Get data of all the reviews.
+    \item Add the product data into the array that holds the data
+    \item Go into the next link(We would like to mention also that the code written allows to continue scrapping from where it stop if the program crashes or stops for reasons, this is done by saving the result after extracting 100 product and then updating the JSON file we created earlier by making the value 1 instead of 0 if the link was already visited meaning the data of the product already saved. )
+    \item Save the data in a JSON file.
+\end{itemize}
+\subsection{Perspectives}
+Writing the scrapping code was fun but we had some difficulties especially with internet interrupting, each time there is a cut in the internet we lose all progress and that what made us update our code to handle this, another thing is that the scrapping program took about a whole night, and we extracted about 8 MBytes of data in form a JSON file that holds 1519 product.
+
+\end{document}
+
+
